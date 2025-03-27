@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angie\\OneDrive\\Escritorio\\PrograMovil\\ExamenII\\Examen2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD3FAB0-B6CC-42FD-B656-840AE16C30AA}|Examen2\\Examen2.csproj|c:\\users\\angie\\onedrive\\escritorio\\programovil\\examenii\\examen2\\examen2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CD3FAB0-B6CC-42FD-B656-840AE16C30AA}|Examen2\\Examen2.csproj|solutionrelative:examen2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD3FAB0-B6CC-42FD-B656-840AE16C30AA}|Examen2\\Examen2.csproj|c:\\users\\angie\\onedrive\\escritorio\\programovil\\examenii\\examen2\\examen2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CD3FAB0-B6CC-42FD-B656-840AE16C30AA}|Examen2\\Examen2.csproj|solutionrelative:examen2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD3FAB0-B6CC-42FD-B656-840AE16C30AA}|Examen2\\Examen2.csproj|c:\\users\\angie\\onedrive\\escritorio\\programovil\\examenii\\examen2\\examen2\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD3FAB0-B6CC-42FD-B656-840AE16C30AA}|Examen2\\Examen2.csproj|solutionrelative:examen2\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD3FAB0-B6CC-42FD-B656-840AE16C30AA}|Examen2\\Examen2.csproj|c:\\users\\angie\\onedrive\\escritorio\\programovil\\examenii\\examen2\\examen2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD3FAB0-B6CC-42FD-B656-840AE16C30AA}|Examen2\\Examen2.csproj|solutionrelative:examen2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD3FAB0-B6CC-42FD-B656-840AE16C30AA}|Examen2\\Examen2.csproj|c:\\users\\angie\\onedrive\\escritorio\\programovil\\examenii\\examen2\\examen2\\models\\tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD3FAB0-B6CC-42FD-B656-840AE16C30AA}|Examen2\\Examen2.csproj|solutionrelative:examen2\\models\\tareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD3FAB0-B6CC-42FD-B656-840AE16C30AA}|Examen2\\Examen2.csproj|c:\\users\\angie\\onedrive\\escritorio\\programovil\\examenii\\examen2\\examen2\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD3FAB0-B6CC-42FD-B656-840AE16C30AA}|Examen2\\Examen2.csproj|solutionrelative:examen2\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD3FAB0-B6CC-42FD-B656-840AE16C30AA}|Examen2\\Examen2.csproj|c:\\users\\angie\\onedrive\\escritorio\\programovil\\examenii\\examen2\\examen2\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD3FAB0-B6CC-42FD-B656-840AE16C30AA}|Examen2\\Examen2.csproj|solutionrelative:examen2\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD3FAB0-B6CC-42FD-B656-840AE16C30AA}|Examen2\\Examen2.csproj|c:\\users\\angie\\onedrive\\escritorio\\programovil\\examenii\\examen2\\examen2\\services\\tareasservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD3FAB0-B6CC-42FD-B656-840AE16C30AA}|Examen2\\Examen2.csproj|solutionrelative:examen2\\services\\tareasservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD3FAB0-B6CC-42FD-B656-840AE16C30AA}|Examen2\\Examen2.csproj|c:\\users\\angie\\onedrive\\escritorio\\programovil\\examenii\\examen2\\examen2\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD3FAB0-B6CC-42FD-B656-840AE16C30AA}|Examen2\\Examen2.csproj|solutionrelative:examen2\\services\\usuarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD3FAB0-B6CC-42FD-B656-840AE16C30AA}|Examen2\\Examen2.csproj|c:\\users\\angie\\onedrive\\escritorio\\programovil\\examenii\\examen2\\examen2\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD3FAB0-B6CC-42FD-B656-840AE16C30AA}|Examen2\\Examen2.csproj|solutionrelative:examen2\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD3FAB0-B6CC-42FD-B656-840AE16C30AA}|Examen2\\Examen2.csproj|c:\\users\\angie\\onedrive\\escritorio\\programovil\\examenii\\examen2\\examen2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD3FAB0-B6CC-42FD-B656-840AE16C30AA}|Examen2\\Examen2.csproj|solutionrelative:examen2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD3FAB0-B6CC-42FD-B656-840AE16C30AA}|Examen2\\Examen2.csproj|c:\\users\\angie\\onedrive\\escritorio\\programovil\\examenii\\examen2\\examen2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD3FAB0-B6CC-42FD-B656-840AE16C30AA}|Examen2\\Examen2.csproj|solutionrelative:examen2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\angie\\OneDrive\\Escritorio\\PrograMovil\\ExamenII\\Examen2\\Examen2\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Examen2\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\angie\\OneDrive\\Escritorio\\PrograMovil\\ExamenII\\Examen2\\Examen2\\Data\\DataContext.cs",
+              "RelativeToolTip": "Examen2\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:27:08.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tareas.cs",
+              "DocumentMoniker": "C:\\Users\\angie\\OneDrive\\Escritorio\\PrograMovil\\ExamenII\\Examen2\\Examen2\\Models\\Tareas.cs",
+              "RelativeDocumentMoniker": "Examen2\\Models\\Tareas.cs",
+              "ToolTip": "C:\\Users\\angie\\OneDrive\\Escritorio\\PrograMovil\\ExamenII\\Examen2\\Examen2\\Models\\Tareas.cs",
+              "RelativeToolTip": "Examen2\\Models\\Tareas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:28:59.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\angie\\OneDrive\\Escritorio\\PrograMovil\\ExamenII\\Examen2\\Examen2\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Examen2\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\angie\\OneDrive\\Escritorio\\PrograMovil\\ExamenII\\Examen2\\Examen2\\Models\\Usuario.cs",
+              "RelativeToolTip": "Examen2\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:28:27.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TareasServices.cs",
+              "DocumentMoniker": "C:\\Users\\angie\\OneDrive\\Escritorio\\PrograMovil\\ExamenII\\Examen2\\Examen2\\Services\\TareasServices.cs",
+              "RelativeDocumentMoniker": "Examen2\\Services\\TareasServices.cs",
+              "ToolTip": "C:\\Users\\angie\\OneDrive\\Escritorio\\PrograMovil\\ExamenII\\Examen2\\Examen2\\Services\\TareasServices.cs",
+              "RelativeToolTip": "Examen2\\Services\\TareasServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:33:38.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\angie\\OneDrive\\Escritorio\\PrograMovil\\ExamenII\\Examen2\\Examen2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Examen2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\angie\\OneDrive\\Escritorio\\PrograMovil\\ExamenII\\Examen2\\Examen2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Examen2\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-27T00:29:38.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angie\\OneDrive\\Escritorio\\PrograMovil\\ExamenII\\Examen2\\Examen2\\Program.cs",
+              "RelativeDocumentMoniker": "Examen2\\Program.cs",
+              "ToolTip": "C:\\Users\\angie\\OneDrive\\Escritorio\\PrograMovil\\ExamenII\\Examen2\\Examen2\\Program.cs",
+              "RelativeToolTip": "Examen2\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:51:55.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\angie\\OneDrive\\Escritorio\\PrograMovil\\ExamenII\\Examen2\\Examen2\\appsettings.json",
+              "RelativeDocumentMoniker": "Examen2\\appsettings.json",
+              "ToolTip": "C:\\Users\\angie\\OneDrive\\Escritorio\\PrograMovil\\ExamenII\\Examen2\\Examen2\\appsettings.json",
+              "RelativeToolTip": "Examen2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-27T00:50:45.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TareasController.cs",
+              "DocumentMoniker": "C:\\Users\\angie\\OneDrive\\Escritorio\\PrograMovil\\ExamenII\\Examen2\\Examen2\\Controllers\\TareasController.cs",
+              "RelativeDocumentMoniker": "Examen2\\Controllers\\TareasController.cs",
+              "ToolTip": "C:\\Users\\angie\\OneDrive\\Escritorio\\PrograMovil\\ExamenII\\Examen2\\Examen2\\Controllers\\TareasController.cs",
+              "RelativeToolTip": "Examen2\\Controllers\\TareasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:25:22.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioServices.cs",
+              "DocumentMoniker": "C:\\Users\\angie\\OneDrive\\Escritorio\\PrograMovil\\ExamenII\\Examen2\\Examen2\\Services\\UsuarioServices.cs",
+              "RelativeDocumentMoniker": "Examen2\\Services\\UsuarioServices.cs",
+              "ToolTip": "C:\\Users\\angie\\OneDrive\\Escritorio\\PrograMovil\\ExamenII\\Examen2\\Examen2\\Services\\UsuarioServices.cs",
+              "RelativeToolTip": "Examen2\\Services\\UsuarioServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:33:17.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\angie\\OneDrive\\Escritorio\\PrograMovil\\ExamenII\\Examen2\\Examen2\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Examen2\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\angie\\OneDrive\\Escritorio\\PrograMovil\\ExamenII\\Examen2\\Examen2\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Examen2\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:25:03.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\angie\\OneDrive\\Escritorio\\PrograMovil\\ExamenII\\Examen2\\Examen2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Examen2\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\angie\\OneDrive\\Escritorio\\PrograMovil\\ExamenII\\Examen2\\Examen2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Examen2\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:35:12.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\angie\\OneDrive\\Escritorio\\PrograMovil\\ExamenII\\Examen2\\Examen2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Examen2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\angie\\OneDrive\\Escritorio\\PrograMovil\\ExamenII\\Examen2\\Examen2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Examen2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:30:00.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
